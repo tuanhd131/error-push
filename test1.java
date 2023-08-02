@@ -1,5 +1,9 @@
 package Learning;
 
 public class test1 {
-  // hangu
+
+	public static void main(String[] args) {
+		
+	}
+
 }
